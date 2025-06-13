@@ -7,7 +7,7 @@ The options:
 2. Traceroute a website - Checks the amount of hops on a website.
 3. Show Network Configuration - Shows your own computers network configuration. 
 
-![NetworkTesterimage] https://raw.githubusercontent.com/al11588/networktester/master/Networkimage.png
+![NetworkTesterimage] (https://raw.githubusercontent.com/al11588/networktester/master/Networkimage.png)
 
 # Programming Stack: 
 
